@@ -20,3 +20,4 @@ What hobbies/pastimes do you enjoy?
 Why did you pick SoftUni?
 
 - I'm Sari from Sofia, I like Table Tennis, I did choose SoftUni to learn to code.
+- I'm Iliyan from Dobritch, I like some sports and everything pc related, i chose SoftUni to improve my coding skills.
